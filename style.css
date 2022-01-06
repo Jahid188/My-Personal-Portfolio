@@ -93,10 +93,30 @@ h3{
 
 .develop-flex-content{
     display: flex;
+    margin-top: 100px;
+    margin-bottom: 110px;
 }
 .develop-width-one{
     width: 40%;
+    padding-left: 100px;
 }
 .develop-width-two{
     width: 60%;
+    margin-right: 80px;
+}
+
+
+
+.GC-flex-content{
+    display: flex;
+    margin-bottom: 100px;
+}
+.GC-width-one{
+    width: 60%;
+    margin-left: 100px;
+    padding-right: 50px;
+}
+.GC-width-two{
+    width: 40%;
+    padding-right: 80px;
 }
